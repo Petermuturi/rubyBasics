@@ -1,0 +1,4 @@
+.rename
+.open
+.delete
+.close
